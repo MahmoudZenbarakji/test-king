@@ -1,0 +1,26 @@
+# Environment files
+node_modules
+.git
+.backend/node_modules
+.frontend/node_modules
+*.md
+*.log
+.DS_Store
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# Dependency directories
+node_modules/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
